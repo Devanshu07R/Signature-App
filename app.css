@@ -1,0 +1,47 @@
+.main {
+    position: absolute;
+    top: 50%;                     
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+/*Done*/
+
+
+
+.canvas {
+    border: 7px solid black;
+}
+/*Done*/
+
+.top,
+.bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px 0 20px 0;
+}
+
+.block,
+input,
+select,
+button {
+    width: 80%;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.bottom>button {
+    margin: 10px;
+}
+
+.top>.block {
+    margin: 10px;
+}
+
+.block>p {
+    margin: 10px auto;
+    width: 50%;
+}
