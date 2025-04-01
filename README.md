@@ -1,4 +1,4 @@
-# Signature-App
+# 🎨Signature-Board
 ✍️ Signature App – Draw & Save Your Digital Signature
 A lightweight and interactive Signature App built with HTML, Tailwind CSS, and JavaScript. Easily create digital signatures with a smooth drawing experience, customize stroke width and color, and download your signature as an image.
 
